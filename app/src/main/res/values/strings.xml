@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">书籍信息管理</string>
+    <string name="main_title">李浩铭2024080616</string>
+    <string name="detail_title">书籍详情</string>
+
+    <!-- 书籍列表 -->
+    <string name="price_format">¥%1$.2f</string>
+    <string name="author_publisher_format">%1$s · %2$s</string>
+
+    <!-- 书籍详情 -->
+    <string name="detail_book_name_format">书名：%1$s</string>
+    <string name="detail_author_format">作者：%1$s</string>
+    <string name="detail_publisher_format">出版社：%1$s</string>
+    <string name="detail_price_format">价格：¥%1$.2f</string>
+</resources>
