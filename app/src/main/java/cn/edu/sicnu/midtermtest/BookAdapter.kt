@@ -6,9 +6,7 @@ import android.view.ViewGroup
 import android.widget.BaseAdapter
 import cn.edu.sicnu.midtermtest.databinding.ItemBookBinding
 
-/**
- * 书籍列表适配器：每行显示书名、价格以及作者和出版社。
- */
+
 class BookAdapter(
     private val inflater: LayoutInflater,
     private val books: List<Book>
